@@ -1,3 +1,12 @@
 {
-  "cSpell.words": ["highlightthickness", "padx", "pady", "Pomodoro"]
+  "cSpell.words": [
+    "checkmark",
+    "highlightthickness",
+    "mixkit",
+    "padx",
+    "pady",
+    "playsound",
+    "Pomodoro",
+    "pygame"
+  ]
 }
