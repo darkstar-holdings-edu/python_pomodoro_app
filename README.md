@@ -30,6 +30,10 @@ pipenv shell
 
 - `main.py`: Executable to launch the application.
 
+## Acknowledgements
+
+Sounds effects supplied by https://mixkit.co/
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/darkstar-holdings-edu/python_usa_game/blob/master/LICENSE) for more information.
