@@ -4,8 +4,8 @@ This is repo contains code that I generate while working on the [100 Days of Cod
 
 This repo covers the project for days 28 of the course.
 
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/darkstar-holdings-edu/python_usa_game)
-![GitHub](https://img.shields.io/github/license/darkstar-holdings-edu/python_usa_game)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/darkstar-holdings-edu/python_pomodoro_app)
+![GitHub](https://img.shields.io/github/license/darkstar-holdings-edu/python_pomodoro_app)
 
 ## Getting Started
 
@@ -36,4 +36,4 @@ Sounds effects supplied by https://mixkit.co/
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/darkstar-holdings-edu/python_usa_game/blob/master/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/darkstar-holdings-edu/python_pomodoro_app/blob/master/LICENSE) for more information.
