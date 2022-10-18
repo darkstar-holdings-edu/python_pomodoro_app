@@ -28,7 +28,10 @@ pipenv shell
 
 ## Usage
 
-- `main.py`: Executable to launch the application.
+```sh
+cd {REPO DIRECTORY}
+pipenv run app
+```
 
 ## Acknowledgements
 
